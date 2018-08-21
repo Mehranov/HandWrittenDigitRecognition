@@ -8,3 +8,10 @@ You can run the code with already existing data I have provided OR you can uploa
 Once the network is trained you can pass through any image size of 20x20 and see how the code can recognize it.
 All steps of running is available in the file RunSteps.pdf which shows screenshot of each steps of run
 for any question about this code please contact mehran.yazdizadeh@gmail.com
+
+in order to run it by yourself, follow the steps below:
+1- download all files
+2- open the file ex4.m either in Octave or Matlab
+3- run the code
+
+in order to see the screenshots of each step of the run, open the file RunSteps.pdf
