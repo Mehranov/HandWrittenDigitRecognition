@@ -10,7 +10,7 @@ All steps of running is available in the file RunSteps.pdf which shows screensho
 for any question about this code please contact mehran.yazdizadeh@gmail.com
 
 in order to run it by yourself, follow the steps below:
-1- download all files//
+1- download all files
 2- open the file ex4.m either in Octave or Matlab
 3- run the code
 
