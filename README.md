@@ -1,5 +1,5 @@
 # HandWrittenDigitRecognition
-This code will recognize hand written English digits 
+This code will recognize hand written English digits\n
 In this code we have used a Neural Network with 1 hidden layer of size 25 to recognize the hand written digits 
 The size of the input image should be 20x20 pixels (though it can be customized to any size)
 The accuracy of this code is 99.5% 
