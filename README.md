@@ -11,10 +11,10 @@ for any question about this code please contact mehran.yazdizadeh@gmail.com
 
 in order to run it by yourself, follow the steps below:
 
-1- download all files
+1- download all files in a dirctory
 
-2- open the file ex4.m either in Octave or Matlab
+2- open the file ex4.m either in Octave or Matlab and go to the same directory as you saved all files
 
-3- run the code
+3- run (you only need to run ex4.m)
 
 in order to see the screenshots of each step of the run, open the file RunSteps.pdf
